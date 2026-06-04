@@ -1,4 +1,4 @@
-echo "
+
 # DevOps Git Project
 
 ## Objective
