@@ -1,0 +1,9 @@
+echo "*.log
+*.tmp
+.DS_Store
+__pycache__/
+*.pyc
+.env
+Thumbs.db
+.vscode/
+.idea/" > .gitignore
