@@ -1,4 +1,5 @@
-echo "# DevOps Git Project
+
+# DevOps Git Project
 
 ## Objective
 Practice Git branching, pull requests, tagging, and .gitignore.
